@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iohangp.github.io/notes-4wk32w/sitemap.xml
